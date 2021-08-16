@@ -1,2 +1,4 @@
 node_modules
 .netlify
+.DS_Store
+.nova/Configuration.json
